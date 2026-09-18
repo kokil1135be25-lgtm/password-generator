@@ -24,7 +24,8 @@ A simple and responsive **Password Generator** built with **React.js** and **Tai
 
 ## 📸 Preview
 
-*Add a screenshot of the application here.*
+<img width="1270" height="416" alt="image" src="https://github.com/user-attachments/assets/f9997e38-ad4f-4f70-9445-e296e3db7109" />
+
 
 ## ⚙️ Getting Started
 
